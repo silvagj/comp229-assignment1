@@ -1,3 +1,10 @@
+/*  
+ *    Filename: app.ts
+ *    Student Name: Silvana Gjini
+ *    Student ID:301201477
+ *    Date:  2-Jun-2022
+ * 
+ */
 import createError from 'http-errors';
 import express, { NextFunction } from 'express';
 import path from 'path';

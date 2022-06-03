@@ -1,5 +1,12 @@
 #!/usr/bin/env node
 "use strict";
+/*
+ *    Filename: server.ts
+ *    Student Name: Silvana Gjini
+ *    Student ID:301201477
+ *    Date:  2-Jun-2022
+ *
+ */
 var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };

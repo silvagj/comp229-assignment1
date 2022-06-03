@@ -1,4 +1,11 @@
 "use strict";
+/*
+ *    Filename: app.ts
+ *    Student Name: Silvana Gjini
+ *    Student ID:301201477
+ *    Date:  2-Jun-2022
+ *
+ */
 //IIFE
 (function () {
     function Start() {
