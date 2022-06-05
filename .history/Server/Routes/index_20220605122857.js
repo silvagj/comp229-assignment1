@@ -22,7 +22,7 @@ router.get('/home', function (req, res, next) {
 });
 /* Display about page. */
 router.get('/about', function (req, res, next) {
-    res.render('index', { title: 'About Me', page: 'about' });
+    res.render('index', { title: 'About Us', page: 'about' });
 });
 /* Display projects page. */
 router.get('/projects', function (req, res, next) {
@@ -34,7 +34,7 @@ router.get('/services', function (req, res, next) {
 });
 /* Display Contact page. */
 router.get('/contact', function (req, res, next) {
-    res.render('index', { title: 'Contact Me', page: 'contact' });
+    res.render('index', { title: 'Contact', page: 'contact' });
 });
 exports.default = router;
 //# sourceMappingURL=index.js.map

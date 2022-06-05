@@ -34,7 +34,7 @@ router.get('/services', function (req, res, next) {
 });
 /* Display Contact page. */
 router.get('/contact', function (req, res, next) {
-    res.render('index', { title: 'Contact Me', page: 'contact' });
+    res.render('index', { title: 'Contact', page: 'contact' });
 });
 exports.default = router;
 //# sourceMappingURL=index.js.map
